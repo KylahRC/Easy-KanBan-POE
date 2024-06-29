@@ -1,6 +1,6 @@
 This is my Final POE code with:
 
-	Part 1: Register user and log user in
+  Part 1: Register user and log user in
 	Part 2: Create program for task adding with no storage
  	Part 3: Add storage, searching and deleting tasks
 
