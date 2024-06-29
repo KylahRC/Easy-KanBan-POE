@@ -1,10 +1,8 @@
 import javax.swing.JOptionPane;
 import java.util.Objects;
 
-class TaskDisplay
+class TaskDisplay // Parallel arrays used for storage of task data
 {
-    // Parallel arrays used for storage of task data
-
     private static final int MAX_TASKS = 10;
     // Maximum number of tasks a user can store at once
 
